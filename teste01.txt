@@ -1,5 +1,7 @@
 esse é um arquivo de teste para fazer um clone
 
-
 agora vai ter um conflito 
+ Clonei para testar isso de uma outra acc para descobrir como funciona
+
+limpei o merge e enviando o arquivo novamente
 
